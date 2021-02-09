@@ -2208,19 +2208,6 @@ a.fancybox {
   margin-bottom: 10px;
   width: 220px;
 }
-.exturl__icon {
-  margin: 0 0.1em 0 0.3em;
-  font-size: 0.8em;
-  color: #aaa;
-}
-.exturl__link {
-  white-space: normal;
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.footer .exturl__icon {
-  color: #fff;
-}
 .comments {
   margin: 1.5rem 0 0;
   width: 100%;
