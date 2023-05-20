@@ -1366,8 +1366,6 @@ input::placeholder {
   background: url(https://z3.ax1x.com/2021/05/02/gZfU54.jpg);
   background-attachment: local;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -2554,8 +2552,6 @@ blockquote footer cite:before {
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: all 0.3s;
@@ -2655,8 +2651,6 @@ blockquote footer cite:before {
   border-bottom-left-radius: 8px;
   background-color: #ff89c7;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 @media screen and (max-width: 768px) {
@@ -3431,8 +3425,6 @@ blockquote footer cite:before {
   background: #ff89c7;
   background-attachment: local;
   background-position: bottom;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 #footer-wrap {
@@ -3461,8 +3453,6 @@ blockquote footer cite:before {
   width: 100%;
   background-color: #ff89c7;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: all 0.5s;
@@ -6569,8 +6559,6 @@ div.videos[col='4'] iframe {
   background-image: -o-linear-gradient(45deg, rgba(255,255,255,0.15) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.15) 75%, transparent 75%, transparent);
   background-image: -ms-linear-gradient(45deg, rgba(255,255,255,0.15) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.15) 75%, transparent 75%, transparent);
   background-image: linear-gradient(45deg, rgba(255,255,255,0.15) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.15) 75%, transparent 75%, transparent);
-  -webkit-background-size: 1rem 1rem;
-  -moz-background-size: 1rem 1rem;
   background-size: 1rem 1rem;
 }
 .progress .progress-bar {
